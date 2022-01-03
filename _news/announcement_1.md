@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-02-01
 inline: true
 ---
 
-A simple inline announcement.
+I attended the <a href="http://www.bellairs2020.ece.mcgill.ca/">2nd Workshop on Data and Models: Towards Intelligent Modelling Environments</a>.

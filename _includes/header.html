@@ -76,8 +76,14 @@
               {%- endif -%}
               {%- endif -%}
               {% endfor -%}
-              {%- if site.enable_darkmode %}
+              <li class="nav-item">
+                <a class="nav-link" href="/assets/pdf/cv.pdf" target="_blank" download="cv">
+                  CV
+                </a>
+              </li>
 
+              {%- if site.enable_darkmode %}
+              
               <!-- Toogle theme mode -->
               <div class = "toggle-container">
                 <a id = "light-toggle">

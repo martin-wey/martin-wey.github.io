@@ -1,24 +1,27 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student at <a href="https://diro.umontreal.ca/accueil/">DIRO, University of Montreal</a> and <a href="https://geodes.iro.umontreal.ca/">GEODES research lab</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture1.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2238 Pavillon André-Aisenstadt</p>
+    <p>2920 Ch de la Tour</p>
+    <p>Montreal, QC H3T 1N8</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+order: 1
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD student in the Department of computer science and operations research at University of Montreal advised by <a href="https://diro.umontreal.ca/repertoire-departement/professeurs/professeur/in/in15076/sg/Houari%20Sahraoui/">Prof. Houari Sahraoui</a>.
+I am part of <a href="https://geodes.iro.umontreal.ca/">GEODES</a> software engineering research lab where I carry out my research projects. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on the application of deep learning and natural language processing in software engineering. As part of my current research project, my objective is to design data-driven approaches to build efficient recommender systems to assist different stakeholders involved in the development and the maintenance of complex software systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<i>As software are made of heterogeneous source of information, I strongly believe in a research line focused on the development of data-centric and multi-modal AI systems 
+to automate software engineering processes and enhance program comprehension.</i>

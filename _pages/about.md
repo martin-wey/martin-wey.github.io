@@ -23,5 +23,4 @@ I am part of <a href="https://geodes.iro.umontreal.ca/">GEODES</a> software engi
 
 My research focuses on the application of deep learning and natural language processing in software engineering. As part of my current research project, my objective is to design data-driven approaches to build efficient recommender systems to assist different stakeholders involved in the development and the maintenance of complex software systems.
 
-<i>As software are made of heterogeneous source of information, I strongly believe in a research line focused on the development of data-centric and multi-modal AI systems 
-to automate software engineering processes and enhance program comprehension.</i>
+In particular, as part of my PhD thesis, I am interested in building multimodal learning systems to better modeling software and build more efficient recommender systems.

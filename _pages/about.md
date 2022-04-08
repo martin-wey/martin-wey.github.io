@@ -3,7 +3,7 @@ layout: about
 order: 1
 title: About
 permalink: /
-subtitle: PhD student at <a href="https://diro.umontreal.ca/accueil/">DIRO, University of Montreal</a> and <a href="https://geodes.iro.umontreal.ca/">GEODES research lab</a>.
+subtitle: Ph.D. student at <a href="https://diro.umontreal.ca/accueil/">DIRO, University of Montreal</a> and <a href="https://geodes.iro.umontreal.ca/">GEODES research lab</a>.
 
 profile:
   align: right
@@ -29,3 +29,5 @@ The objective of my Ph.D. thesis is twofold. First, it involves the design of **
 ---
 
 Besides, I enjoy reading about other research topics including psychology, neuroscience, and, deep reinforcement learning. In my free time, I play and compose music ([check out this page!](/music)). I also like to go hiking in the wild!
+
+---

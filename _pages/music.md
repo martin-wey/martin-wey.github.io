@@ -38,12 +38,5 @@ Finally, a picture behind the kit during a show in Switzerland
     </div>
 </div>
 
-A last one just for the fun and because music makes me so happy! :smile:
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/behind_the_kit2.jpg" title="behind the kit 2" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 ---
 

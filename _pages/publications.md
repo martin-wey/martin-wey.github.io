@@ -5,7 +5,7 @@ title: publications
 description: Check my Google Scholar profile for an up-to-date list of publications.
 years: [2022, 2021, 2020]
 nav: true
-order: 1
+order: 2
 ---
 <!-- _pages/publications.md -->
 <div class="publications">

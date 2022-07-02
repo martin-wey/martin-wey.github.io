@@ -24,10 +24,10 @@ I am part of <a href="https://geodes.iro.umontreal.ca/">GEODES</a> software engi
 
 My research is all about the application of deep learning and natural language processing in software engineering. As part of my current research, my objective is to design data-intensive approaches that can be leveraged to ease the development and maintenance of complex software systems by assisting developers.
 
-The objective of my Ph.D. thesis is twofold. First, it involves the design of **multimodal learning approaches to better modeling the software world**. Secondly, I believe that it is essential **to make deep learning models adaptable** to various situations where data drift may occur or where the end-task evolves. Hence, my main second objective is to leverage **continual learning** and **meta-learning** to improve their adaptability. 
+The objective of my Ph.D. thesis is twofold. First, it involves the design of **multimodal learning approaches to better modeling programs**. Secondly, I believe that making **deep learning models of code adaptable and robust** to adversarial situations where important distribution drift of the data occur is crucial. Therefore, my second objective is to study the resilience of deep learning models of code to these scenarios, and design methods to improve their robustness.
 
 ---
 
-Besides, I enjoy reading about other research topics including psychology, neuroscience, and, deep reinforcement learning. In my free time, I play and compose music ([check out this page!](/music)). I also like to go hiking in the wild!
+Besides, I enjoy reading about other research topics including psychology, neuroscience, and, deep reinforcement learning. In my free time, I play and compose music ([check out this page!](/music)).
 
 ---

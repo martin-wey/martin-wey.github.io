@@ -4,6 +4,7 @@ main:
     authors: <strong>Martin Weyssow*</strong>, Xin Zhou, Kisub Kim, David Lo, Houari Sahraoui
     conference_short: Under review
     conference: Under review
+    pdf: https://arxiv.org/pdf/2308.10462.pdf
     image: ./assets/publications/peft.png
 
   - title: On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code

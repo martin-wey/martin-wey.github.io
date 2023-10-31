@@ -1,0 +1,38 @@
+main:
+
+  - title: Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models
+    authors: <strong>Martin Weyssow*</strong>, Xin Zhou, Kisub Kim, David Lo, Houari Sahraoui
+    conference_short: Under review
+    conference: Under review
+    image: ./assets/publications/peft.png
+
+  - title: On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code
+    authors: <strong>Martin Weyssow*</strong>, Xin Zhou, Kisub Kim, David Lo, Houari Sahraoui
+    conference_short: ESEC/FSE
+    conference: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2023.
+    pdf: https://arxiv.org/pdf/2206.11719.pdf
+    code: https://github.com/martin-wey/cl-code-apis
+    image: ./assets/publications/fse_cl4code.png
+
+  - title: "AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models"
+    authors: José Antonio Hernández López*, <strong>Martin Weyssow*</strong>, Jesús Sánchez Cuadrado, Houari Sahraoui (*Equal contributions)
+    conference_short: ASE
+    conference: International Conference on Automated Software Engineering, 2022.
+    pdf: https://arxiv.org/pdf/2206.11719.pdf
+    code: https://github.com/martin-wey/ast-probe
+    image: ./assets/publications/ase_probe.png
+
+  - title: Better modeling the programming world with code concept graphs-augmented multi-modal learning
+    authors: <strong>Martin Weyssow</strong>, Houari Sahraoui, Bang Liu
+    conference_short: ICSE-NIER
+    conference: International Conference on Software Engineering, New Ideas and Emerging Results, 2022.
+    pdf: https://arxiv.org/pdf/2201.03346.pdf
+    image: ./assets/publications/multimodal_icse_nier.png
+
+  - title: Recommending metamodel concepts during modeling activities with pre-trained language models
+    authors: <strong>Martin Weyssow</strong>, Houari Sahraoui, Eugene Syriani
+    conference_short: SOSYM
+    conference: Software and Systems Modeling, 2022.
+    pdf: https://arxiv.org/pdf/2201.03346.pdf
+    code: https://github.com/martin-wey/metamodel-concepts-bert
+    image: ./assets/publications/sosym_ecore_ima.png

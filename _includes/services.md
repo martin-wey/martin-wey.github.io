@@ -5,6 +5,7 @@
 <h4 style="margin:0 10px 0;">Program Committee</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://conf.researchr.org/home/forge-2024"><autocolor>FORGE 2024</autocolor></a></li>
   <li><a href="https://ijcai-21.org/"><autocolor>Workshop on Deep Learning for Code at ICLR 2022</autocolor></a></li>
 </ul>
 
@@ -17,6 +18,8 @@
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
+  <li><a href="https://dl.acm.org/journal/tosem"><autocolor>ACM Transactions on Software Engineering and Methodology 2024</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering 2023</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/10270"><autocolor>Software and Systems Modeling (SOSYM) 2022</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32"><autocolor>IEEE Transactions on Software Engineering (TSE) 2020</autocolor></a></li>
 </ul>

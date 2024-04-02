@@ -51,7 +51,7 @@ main:
     authors: <strong>Martin Weyssow</strong>, Houari Sahraoui, and Eugene Syriani
     conference_short: SOSYM
     conference: Software and Systems Modeling, 2022.
-    pdf: https://arxiv.org/pdf/2201.03346.pdf
+    pdf: https://arxiv.org/pdf/2104.01642.pdf
     code: https://github.com/martin-wey/metamodel-concepts-bert
     image: ./assets/publications/sosym_ecore_ima.png
 

@@ -1,14 +1,31 @@
 main:
 
+  - title: CodeUltraFeedback: An LLM-as-a-Judge Dataset for Aligning Large Language Models to Coding Preferences
+    authors: <strong>Martin Weyssow</strong>, Aton Kamanda, and Houari Sahraoui
+    conference_short: Under review
+    conference: Under review
+    pdf: https://arxiv.org/pdf/2403.09032.pdf
+    code: https://github.com/martin-wey/CodeUltraFeedback
+    image: ./assets/publications/codeultrafeedback.png
+
+  - title: "CodeLL: A Lifelong Learning Dataset to Support the Co-Evolution of Data and Language Models of Code"
+    authors: <strong>Martin Weyssow</strong>, Claudio Di Sipio, Davide Di Ruscio, and Houari Sahraoui
+    conference_short: MSR
+    conference: International Conference on Mining Software Repositories, Data and Tool Showcase, 2024.
+    pdf: https://arxiv.org/pdf/2312.12492.pdf
+    code: https://github.com/martin-wey/CodeLL-Dataset
+    image: ./assets/publications/codell.png
+
   - title: Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models
-    authors: <strong>Martin Weyssow*</strong>, Xin Zhou, Kisub Kim, David Lo, Houari Sahraoui
+    authors: <strong>Martin Weyssow</strong>, Xin Zhou, Kisub Kim, David Lo, and Houari Sahraoui
     conference_short: Under review
     conference: Under review
     pdf: https://arxiv.org/pdf/2308.10462.pdf
+    code: https://github.com/martin-wey/peft-llm-code
     image: ./assets/publications/peft.png
 
   - title: On the Usage of Continual Learning for Out-of-Distribution Generalization in Pre-trained Language Models of Code
-    authors: <strong>Martin Weyssow*</strong>, Xin Zhou, Kisub Kim, David Lo, Houari Sahraoui
+    authors: <strong>Martin Weyssow</strong>, Xin Zhou, Kisub Kim, David Lo, and Houari Sahraoui
     conference_short: ESEC/FSE
     conference: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, 2023.
     pdf: https://arxiv.org/pdf/2305.04106.pdf
@@ -16,7 +33,7 @@ main:
     image: ./assets/publications/fse_cl4code.png
 
   - title: "AST-Probe: Recovering abstract syntax trees from hidden representations of pre-trained language models"
-    authors: José Antonio Hernández López*, <strong>Martin Weyssow*</strong>, Jesús Sánchez Cuadrado, Houari Sahraoui (*Equal contributions)
+    authors: José Antonio Hernández López*, <strong>Martin Weyssow*</strong>, Jesús Sánchez Cuadrado, and Houari Sahraoui (*Equal contributions)
     conference_short: ASE
     conference: International Conference on Automated Software Engineering, 2022.
     pdf: https://arxiv.org/pdf/2206.11719.pdf
@@ -24,16 +41,17 @@ main:
     image: ./assets/publications/ase_probe.png
 
   - title: Better modeling the programming world with code concept graphs-augmented multi-modal learning
-    authors: <strong>Martin Weyssow</strong>, Houari Sahraoui, Bang Liu
+    authors: <strong>Martin Weyssow</strong>, Houari Sahraoui, and Bang Liu
     conference_short: ICSE-NIER
     conference: International Conference on Software Engineering, New Ideas and Emerging Results, 2022.
     pdf: https://arxiv.org/pdf/2201.03346.pdf
     image: ./assets/publications/multimodal_icse_nier.png
 
   - title: Recommending metamodel concepts during modeling activities with pre-trained language models
-    authors: <strong>Martin Weyssow</strong>, Houari Sahraoui, Eugene Syriani
+    authors: <strong>Martin Weyssow</strong>, Houari Sahraoui, and Eugene Syriani
     conference_short: SOSYM
     conference: Software and Systems Modeling, 2022.
     pdf: https://arxiv.org/pdf/2201.03346.pdf
     code: https://github.com/martin-wey/metamodel-concepts-bert
     image: ./assets/publications/sosym_ecore_ima.png
+

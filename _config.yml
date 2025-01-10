@@ -1,15 +1,15 @@
 # Basic Information 
 title: Martin Weyssow
-position: Ph.D. Candidate
-affiliation: DIRO, University of Montreal
-affiliation_link: https://diro.umontreal.ca/english/home/
+position: Research Scientist (Postdoc)
+affiliation: Singapore Management University
+affiliation_link: https://computing.smu.edu.sg
 affiliation_logo: 
-email: martin.weyssow (at) umontreal.ca
+email: mweyssow (at) smu.edu.sg
 
 # Search Engine Optimization (SEO)
 keywords: martin, weyssow, martinwey, martin-wey
 canonical: https://martin-wey.github.io/
-description: Martin Weyssow is a phd candidate at the University of Montreal. His research lies in deep learning, natural language processing and software engineering.
+description: Martin Weyssow is a Research Scientist (postdoc) at Singapore Management University (SMU). His research lies in deep learning, natural language processing and software engineering.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false

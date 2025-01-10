@@ -26,7 +26,7 @@ main:
   - title: Exploring Parameter-Efficient Fine-Tuning Techniques for Code Generation with Large Language Models
     authors: <strong>Martin Weyssow</strong>, Xin Zhou, Kisub Kim, David Lo, and Houari Sahraoui
     conference_short: TOSEM
-    conference: TOSEM
+    conference: ACM Transactions on Software Engineering and Methodology
     pdf: https://arxiv.org/pdf/2308.10462.pdf
     code: https://github.com/martin-wey/peft-llm-code
     image: ./assets/publications/peft.png

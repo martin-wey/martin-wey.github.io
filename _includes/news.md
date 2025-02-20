@@ -3,7 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><b style='color:red !important;'>[Jan. 2025]</b> Our paper on <a href="">harnessing LLMs for curated code reviews</a> has been accepted for publication at <a href="https://2025.msrconf.org">MSR 2025</a>.</li>
+<li><b style='color:red !important;'>[Jan. 2025]</b> Our paper on <a href="https://arxiv.org/abs/2502.03425">harnessing LLMs for curated code reviews</a> has been accepted for publication at <a href="https://2025.msrconf.org">MSR 2025</a>.</li>
+<li><b style='color:red !important;'>[Jan. 2025]</b> Our paper on <a href="https://arxiv.org/abs/2501.12904">a reference architecture for LLM-integrated systems</a> has been accepted for publication at <a href="https://conf.researchr.org/home/icsa-2025">ICSA 2025</a>.</li>
 <li><b style='color:red !important;'>[Jan. 2025]</b> Our paper on <a href="https://arxiv.org/abs/2308.10462">parameter-efficient fine-tuning for code generation with LLMs</a> has been accepted for publication at ACM Transactions on Software Engineering and Methodology (TOSEM).</li>
 <li><b style='color:red !important;'>[Oct. 2024]</b> I am starting a new position as a Research Scientist (postdoc) at Singapore Management University (SMU) where I'll be working on vulnerability detection with LLMs.</li>
 <li><b style='color:red !important;'>[Sept. 2024]</b> I have succesfully defended my Ph.D dissertation "<i>Aligning Language Models to Code: Exploring Efficient, Temporal, and Preference Alignment for Code Generation</i> at DIRO, University of Montreal. I received the highest distinction with an exceptional mention.</li>
